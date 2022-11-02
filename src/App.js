@@ -16,7 +16,7 @@ const MEALS_DATA = [
     },
     {
         id: '2',
-        title: '双层吉士汉堡',
+        title: '双层芝士汉堡',
         desc: '百分百纯牛肉与双层香软芝，加上松软面包及美味酱料，诱惑无人能挡！',
         price: 20,
         img: '/img/meals/2.png'
@@ -47,7 +47,7 @@ const MEALS_DATA = [
         img: '/img/meals/6.png'
     }, {
         id: '7',
-        title: '吉士汉堡包',
+        title: '芝士汉堡包',
         desc: '百分百纯牛肉与香软芝士融为一体配合美味番茄醬丰富口感一咬即刻涌现！',
         price: 12,
         img: '/img/meals/7.png'
